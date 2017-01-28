@@ -1,0 +1,25 @@
+How to get my newest Profiles / How to use Github ?
+http://zzukbot.com/forum/viewtopic.php?f=25&t=146
+
+How to Setup the Bot v1 & v2:
+http://zzukbot.com/forum/viewtopic.php?f=46&t=794
+http://zzukbot.com/forum/viewtopic.php?f=46&t=844
+
+Dont forget the right Custom Class:
+v1: http://zzukbot.com/forum/viewforum.php?f=12
+v2: http://zzukbot.com/forum/viewforum.php?f=61
+
+
+IMPORTANT:
+I recommend to use Bot Version 1.
+The 2.0 Build is currently beta and can make mesh/waypoint errors.
+Make sure you disabled " Roam From Waypoint" and " Waypoint Modifier " which can cause navigation issues.
+You can find it under Settings -> Distances / Others .
+
+
+All Profiles working perfect with v1 if you want to use v2 use it on your own risk.
+Please report every bug with v2 to the devs so we can get soon a stable release.
+
+If you find any bug with v1 report it to me!
+
+Have fun and enjoy my profiles !

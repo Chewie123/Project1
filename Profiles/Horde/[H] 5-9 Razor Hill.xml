@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Durotar 55/45 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 55/45 -->
+			<X>208.5565</X>
+			<Y>-4880.73</Y>
+			<Z>14.36694</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 55/44 -->
+			<X>237.0397</X>
+			<Y>-4906.292</Y>
+			<Z>21.05774</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 55/43 -->
+			<X>258.2198</X>
+			<Y>-4893.773</Y>
+			<Z>18.42737</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 56/43 -->
+			<X>288.9427</X>
+			<Y>-4945.623</Y>
+			<Z>22.6276</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 57/44 -->
+			<X>255.9966</X>
+			<Y>-4981.679</Y>
+			<Z>19.43567</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 57/44 -->
+			<X>247.8689</X>
+			<Y>-4998.799</Y>
+			<Z>19.46049</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 57/43 -->
+			<X>291.7228</X>
+			<Y>-5021.903</Y>
+			<Z>14.0991</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 57/41 -->
+			<X>341.9794</X>
+			<Y>-5019.043</Y>
+			<Z>18.53546</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 58/41 -->
+			<X>336.4149</X>
+			<Y>-5042.741</Y>
+			<Z>16.7077</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/42 -->
+			<X>324.3636</X>
+			<Y>-5120.582</Y>
+			<Z>3.810412</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/43 -->
+			<X>284.175</X>
+			<Y>-5093.97</Y>
+			<Z>7.556741</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/44 -->
+			<X>240.4221</X>
+			<Y>-5092.795</Y>
+			<Z>10.18695</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/47 -->
+			<X>118.526</X>
+			<Y>-5117.145</Y>
+			<Z>3.018449</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 58/50 -->
+			<X>31.13629</X>
+			<Y>-5073.77</Y>
+			<Z>8.601522</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 57/49 -->
+			<X>65.21367</X>
+			<Y>-5013.868</Y>
+			<Z>10.94643</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 57/51 -->
+			<X>1.247622</X>
+			<Y>-4986.869</Y>
+			<Z>12.45276</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 56/50 -->
+			<X>18.49503</X>
+			<Y>-4955.135</Y>
+			<Z>14.7405</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 55/51 -->
+			<X>-10.69698</X>
+			<Y>-4919.162</Y>
+			<Z>16.68202</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 54/50 -->
+			<X>35.26313</X>
+			<Y>-4857.002</Y>
+			<Z>19.00373</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 54/50 -->
+			<X>20.20851</X>
+			<Y>-4823.144</Y>
+			<Z>22.43728</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/51 -->
+			<X>-10.51705</X>
+			<Y>-4769.778</Y>
+			<Z>25.58186</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 52/50 -->
+			<X>43.343</X>
+			<Y>-4712.784</Y>
+			<Z>30.50659</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/49 -->
+			<X>67.98585</X>
+			<Y>-4666.779</Y>
+			<Z>37.634</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/48 -->
+			<X>87.09994</X>
+			<Y>-4655.407</Y>
+			<Z>35.28771</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 52/47 -->
+			<X>123.2907</X>
+			<Y>-4727.98</Y>
+			<Z>18.25549</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/46 -->
+			<X>178.7527</X>
+			<Y>-4789.212</Y>
+			<Z>14.56791</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>413</Faction>
+		<Faction>189</Faction>
+		<Faction>123</Faction>
+		<Faction>109</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 52/41 -->
+			<X>361.2143</X>
+			<Y>-4764.822</Y>
+			<Z>12.47001</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 52/41 -->
+		<Position>
+			<X>362.105</X>
+			<Y>-4763.84</Y>
+			<Z>12.46956</Z>
+		</Position>
+		<Name>Ghrawt</Name>
+	</Repair>
+</Profile>
