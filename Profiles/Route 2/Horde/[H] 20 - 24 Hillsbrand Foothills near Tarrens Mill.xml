@@ -331,83 +331,48 @@
 	</Factions>
 	<VendorHotspots>
 		<VendorHotspot>
-			<!-- Pos: 57/34 -->
-			<X>-345.169</X>
-			<Y>-776.9838</Y>
-			<Z>54.94987</Z>
+			<!-- Pos: 57/36 -->
+			<X>-381.732</X>
+			<Y>-786.3992</Y>
+			<Z>54.73367</Z>
 			<Type>Hotspot</Type>
 		</VendorHotspot>
 		<VendorHotspot>
-			<!-- Pos: 57/34 -->
-			<X>-331.5268</X>
-			<Y>-758.0563</Y>
-			<Z>53.81978</Z>
+			<!-- Pos: 58/32 -->
+			<X>-291.8941</X>
+			<Y>-800.5385</Y>
+			<Z>56.92538</Z>
 			<Type>Hotspot</Type>
 		</VendorHotspot>
 		<VendorHotspot>
-			<!-- Pos: 56/33 -->
-			<X>-319.7658</X>
-			<Y>-738.321</Y>
-			<Z>55.2977</Z>
+			<!-- Pos: 58/29 -->
+			<X>-238.0146</X>
+			<Y>-815.8417</Y>
+			<Z>57.09557</Z>
 			<Type>Hotspot</Type>
 		</VendorHotspot>
 		<VendorHotspot>
-			<!-- Pos: 55/33 -->
-			<X>-309.3568</X>
-			<Y>-713.2496</Y>
-			<Z>58.42924</Z>
+			<!-- Pos: 60/25 -->
+			<X>-154.2004</X>
+			<Y>-858.1276</Y>
+			<Z>57.25524</Z>
 			<Type>Hotspot</Type>
 		</VendorHotspot>
 		<VendorHotspot>
-			<!-- Pos: 55/33 -->
-			<X>-310.6583</X>
-			<Y>-695.9343</Y>
-			<Z>56.76605</Z>
-			<Type>Hotspot</Type>
-		</VendorHotspot>
-		<VendorHotspot>
-			<!-- Pos: 54/33 -->
-			<X>-314.3483</X>
-			<Y>-682.64</Y>
-			<Z>55.13728</Z>
-			<Type>Hotspot</Type>
-		</VendorHotspot>
-		<VendorHotspot>
-			<!-- Pos: 54/34 -->
-			<X>-326.6082</X>
-			<Y>-688.8646</Y>
-			<Z>54.80206</Z>
-			<Type>Hotspot</Type>
-		</VendorHotspot>
-		<VendorHotspot>
-			<!-- Pos: 55/34 -->
-			<X>-333.2843</X>
-			<Y>-696.996</Y>
-			<Z>56.95913</Z>
-			<Type>Hotspot</Type>
-		</VendorHotspot>
-		<VendorHotspot>
-			<!-- Pos: 55/34 -->
-			<X>-335.7411</X>
-			<Y>-700.8563</Y>
-			<Z>57.62878</Z>
-			<Type>Hotspot</Type>
-		</VendorHotspot>
-		<VendorHotspot>
-			<!-- Pos: 55/34 -->
-			<X>-341.4568</X>
-			<Y>-713.3582</Y>
-			<Z>57.73325</Z>
+			<!-- Pos: 60/26 -->
+			<X>-156.9673</X>
+			<Y>-867.6212</Y>
+			<Z>57.03231</Z>
 			<Type>Hotspot</Type>
 		</VendorHotspot>
 	</VendorHotspots>
 	<Repair>
-		<!-- Pos: 55/34 -->
+		<!-- Pos: 60/26 -->
 		<Position>
-			<X>-342.026</X>
-			<Y>-714.092</Y>
-			<Z>57.7331</Z>
+			<X>-158.525</X>
+			<Y>-867.18</Y>
+			<Z>56.89799</Z>
 		</Position>
-		<Name>Zixil</Name>
+		<Name>Ott</Name>
 	</Repair>
 </Profile>
