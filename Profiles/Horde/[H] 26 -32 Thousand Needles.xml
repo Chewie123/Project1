@@ -1582,7 +1582,7 @@
 		<Name>Starn</Name>
 	</Repair>
 	<GhostHotspots>
-	<GhostHotspot>
+		<GhostHotspot>
 			<!-- Pos: 36/49 -->
 			<X>-5427.518</X>
 			<Y>-2026.386</Y>
@@ -2408,5 +2408,5 @@
 			<Z>-59.69679</Z>
 			<Type>Hotspot</Type>
 		</GhostHotspot>
-		</GhostHotspot>
+	</GhostHotspots>
 </Profile>
