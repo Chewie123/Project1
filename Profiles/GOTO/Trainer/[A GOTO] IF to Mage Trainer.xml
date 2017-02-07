@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: City of Ironforge 30/66 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 30/66 -->
+			<X>-4918.386</X>
+			<Y>-955.4399</Y>
+			<Z>501.5052</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 25/61 -->
+			<X>-4892.015</X>
+			<Y>-919.0321</Y>
+			<Z>501.633</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 23/62 -->
+			<X>-4897.567</X>
+			<Y>-900.3357</Y>
+			<Z>501.6599</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 22/61 -->
+			<X>-4891.371</X>
+			<Y>-891.5887</Y>
+			<Z>501.6599</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 21/53 -->
+			<X>-4849.147</X>
+			<Y>-884.9468</Y>
+			<Z>501.6595</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 21/47 -->
+			<X>-4818.937</X>
+			<Y>-881.9642</Y>
+			<Z>501.6595</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 22/37 -->
+			<X>-4765.084</X>
+			<Y>-890.0363</Y>
+			<Z>501.6599</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 23/31 -->
+			<X>-4736.964</X>
+			<Y>-898.857</Y>
+			<Z>501.6599</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 28/14 -->
+			<X>-4646.409</X>
+			<Y>-937.3514</Y>
+			<Z>501.6574</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 27/12 -->
+			<X>-4635.522</X>
+			<Y>-929.7767</Y>
+			<Z>502.7667</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 25/8 -->
+			<X>-4615.838</X>
+			<Y>-919.0818</Y>
+			<Z>501.0626</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 26/7 -->
+			<X>-4606.216</X>
+			<Y>-921.1254</Y>
+			<Z>501.0713</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+</Profile>
